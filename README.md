@@ -1,11 +1,9 @@
-<!-- 🧬 Glitchy Retro Hacker Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&duration=4000&pause=1000&color=F6FDC3&background=000000&center=true&vCenter=true&multiline=true&width=700&lines=%3E+Aashvii+is+typing...;...decoding+data+and+design;...crafting+a+life+in+logic%2C+code+%26+chaos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1200&color=FFA500&center=true&vCenter=true&width=640&lines=Hello+World+%7C+I'm+Aashvi.;I+build+ML+models+and+dashboards.;Open+to+learning+%2B+collaborating.;Let's+connect+and+code."/>
 </p>
 
-<!-- 🌈 Capsule Gradient Aesthetic Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff61c2,6e00ff&height=220&section=header&text=Aashvii%20%7C%20Data%20+%20Design%20+%20Dev&fontColor=ffffff&fontSize=35&fontAlign=50&animation=twinkling&fontAlignY=40"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1200&color=FFA500&center=true&vCenter=true&width=640&lines=Hello+World+%7C+I'm+Aashvi.;I+build+ML+models+and+dashboards.;Open+to+learning+%2B+collaborating.;Let's+connect+and+code."/>
 </p>
 
 <!-- 🧠 Terminal Typing Animation -->
@@ -99,9 +97,5 @@ Currently, I’m enhancing my skills in model evaluation, data storytelling, and
   </a>
 </p>
 
-
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6ec4&height=120&section=footer"/>
-</p>
