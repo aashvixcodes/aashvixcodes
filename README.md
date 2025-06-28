@@ -1,6 +1,6 @@
 <!-- 🔮 Glitchy Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:ff6ec4&height=230&section=header&text=Hey%20There!%20I'm%20Aashvii%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:ff6ec4&height=230&section=header&text=Hey%20There!%20I'm%20Aashvi%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- 🧠 Terminal Typing Animation -->
@@ -24,32 +24,23 @@ Currently, I’m focusing on improving my ML skills and working on some cool ana
 
 ---
 
-### 🏆 GitHub Trophy Case
+### 💻 Tech Stacks
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aashvixcodes&theme=radical&no-frame=true&title=Stars,Followers,Repositories,Commit,Issues" />
-</p>
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aashvixcodes&theme=tokyonight&show_icons=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aashvixcodes&theme=tokyonight" width="47%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E2D88?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
 ---
@@ -65,16 +56,6 @@ Currently, I’m focusing on improving my ML skills and working on some cool ana
   <a href="https://skyline.github.com/aashvixcodes/2024">
     <img src="https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-orange?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
----
-
-### 🌍 Visitor Map
-
-<p align="center">
-  <img src="https://api.visitor-badge.laobi.icu/badge?page_id=aashvixcodes.visitor-badge&left_color=purple&right_color=ff69b4" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashvixcodes&theme=tokyonight" />
 </p>
 
 ---
