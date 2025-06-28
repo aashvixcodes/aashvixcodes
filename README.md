@@ -1,6 +1,11 @@
-<!-- 🔮 Glitchy Gradient Header -->
+<!-- 🧬 Glitchy Retro Hacker Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e00ff,100:ff6ec4&height=230&section=header&text=Hey%20There!%20I'm%20Aashvi%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=30&duration=4000&pause=1000&color=F6FDC3&background=000000&center=true&vCenter=true&multiline=true&width=700&lines=%3E+Aashvii+is+typing...;...decoding+data+and+design;...crafting+a+life+in+logic%2C+code+%26+chaos" />
+</p>
+
+<!-- 🌈 Capsule Gradient Aesthetic Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff61c2,6e00ff&height=220&section=header&text=Aashvii%20%7C%20Data%20+%20Design%20+%20Dev&fontColor=ffffff&fontSize=35&fontAlign=50&animation=twinkling&fontAlignY=40"/>
 </p>
 
 <!-- 🧠 Terminal Typing Animation -->
@@ -16,11 +21,13 @@
 
 ### 👩‍💻 About Me
 
-Hi! I’m Aashvi, a final-year Data Science undergrad (turning raw data into clear, meaningful insights).
+Hi! I'm Aashvi, a final-year Data Science undergrade with a strong interest in data analysis, machine learning, and data-driven decision making.
 
-I enjoy working with Python, SQL, Tableau, and other tools to analyze data, build dashboards, and solve real-world problems.
-I’m always exploring new ways to learn, grow, and create projects that make an impact.
-Currently, I’m focusing on improving my ML skills and working on some cool analytics projects.
+I enjoy working on end-to-end projects — from data cleaning and exploration to building predictive models and dashboards. 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D0FF&width=700&lines=Final-year+Data+Science+Undergrad.;Skilled+in+Python,+SQL,+Tableau.;Passionate+about+data,+models,+impact.;Turning+information+into+intuition."/>
+</p>
+Currently, I’m enhancing my skills in model evaluation, data storytelling, and building deployable ML solutions.
 
 ---
 
@@ -45,6 +52,25 @@ Currently, I’m focusing on improving my ML skills and working on some cool ana
 
 ---
 
+### 📚 Currently Learning
+
+- Supervised Machine Learning techniques (Classification, Regression)
+- Streamlit for interactive data apps and dashboards
+- Advanced SQL for data extraction and business analytics
+- Git & GitHub workflows for version control and collaboration
+- Best practices in data storytelling and visualization
+
+---
+
+### 🧠 Interests
+
+- Data analysis and insight-driven decision making  
+- Building clean, scalable, and interactive dashboards  
+- Exploring real-world applications of machine learning  
+- Enhancing user experience through data visualization  
+- Working at the intersection of data, design, and impact
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -52,24 +78,27 @@ Currently, I’m focusing on improving my ML skills and working on some cool ana
 
 ---
 
+### 🌐 Let's Connect
+
 <p align="center">
-  <a href="https://skyline.github.com/aashvixcodes/2024">
-    <img src="https://img.shields.io/badge/GitHub%20Skyline-Click%20to%20View-orange?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00D0FF&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+together.;Open+to+collaboration%2C+learning%2C+and+data+stories.;Reach+me+via+LinkedIn%2C+GitHub%2C+X%2C+or+Discord."/>
 </p>
-
----
-
-### 🌐 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashvi-maurya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aashvi%20Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aashvi%20Maurya-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/aashvixcodes">
-    <img src="https://img.shields.io/badge/GitHub-aashvixcodes-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-aashvixcodes-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/amaashvi">
+    <img src="https://img.shields.io/badge/X-%40your_x_username-000000?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/d_diplomatic">
+    <img src="https://img.shields.io/badge/Discord-YourTag%231234-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
