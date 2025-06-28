@@ -1,15 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1200&color=FFA500&center=true&vCenter=true&width=640&lines=Hello+World+%7C+I'm+Aashvi.;I+build+ML+models+and+dashboards.;Open+to+learning+%2B+collaborating.;Let's+connect+and+code."/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=20&pause=1200&color=FFA500&center=true&vCenter=true&width=640&lines=Hello+World+%7C+I'm+Aashvi.;I+build+ML+models+and+dashboards.;Open+to+learning+%2B+collaborating.;Let's+connect+and+code."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=800&color=FF0077&center=true&vCenter=true&width=700&lines=final_year+%3D+True;learning_rate+=+always;print(%22Aashvi+codes+clean%22);transform(data)%2C+don%27t+just+train(model)">
 </p>
 
-<!-- 🧠 Terminal Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=FF61C2&center=true&vCenter=true&width=435&lines=Final+Year+Data+Science+Undergrad.;Plotting+Dreams+with+Python+%F0%9F%93%88;Minimal+Code.+Max+Clarity.;Aesthetics+%2B+Analysis" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aashvixcodes&label=Profile+Views&color=ff61c2&style=flat-square" />
@@ -75,13 +70,11 @@ Currently, I’m enhancing my skills in model evaluation, data storytelling, and
 </p>
 
 ---
-
 ### 🌐 Let's Connect
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00D0FF&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+together.;Open+to+collaboration%2C+learning%2C+and+data+stories.;Reach+me+via+LinkedIn%2C+GitHub%2C+X%2C+or+Discord."/>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aashvi-maurya/">
     <img src="https://img.shields.io/badge/LinkedIn-Aashvi%20Maurya-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
