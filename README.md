@@ -3,22 +3,16 @@
 <p align="center"><i>Decoding patterns, predicting outcomes, and designing clarity with code.</i></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=800&color=FF0077&center=true&vCenter=true&width=700&lines=final_year+%3D+True;learning_rate+=+always;print(%22Aashvi+codes+clean%22);transform(data)%2C+don%27t+just+train(model)">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2200&pause=900&color=FF0077&center=true&vCenter=true&width=720&lines=learning_rate+%2B%3D+always;print(%22building+reliable+data+solutions%22);transform(data)%2C+then+train(model)">
 </p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aashvixcodes&label=Profile+Views&color=ff61c2&style=flat-square" />
-</p>
-
 ---
 
 ### 👩‍💻 About Me
 
-Hi! I'm Aashvi, a final-year Data Science undergrade with a strong interest in data analysis, machine learning, and data-driven decision making.
+Hi! I'm Aashvi, a final-year Data Science undergrade focused in domain of Data science, Analytics and Machine learning
 
 I enjoy working on end-to-end projects — from data cleaning and exploration to building predictive models and dashboards. 
-Currently, I’m enhancing my skills in model evaluation, data storytelling, and building deployable ML solutions.
+Currently, I am focused on building complete data workflows, from raw data to meaningful insights and solutions.
 
 ---
 
@@ -45,21 +39,20 @@ Currently, I’m enhancing my skills in model evaluation, data storytelling, and
 
 ### 📚 Currently Learning
 
-- Supervised Machine Learning techniques (Classification, Regression)
-- Streamlit for interactive data apps and dashboards
-- Advanced SQL for data extraction and business analytics
-- Git & GitHub workflows for version control and collaboration
-- Best practices in data storytelling and visualization
-
+-Data analytics workflows for real-world problem solving
+-Machine learning fundamentals with practical applications
+-SQL for data extraction, transformation, and analytics
+-Backend fundamentals for data-driven applications (APIs, basic system design)
+-Data visualization and storytelling best practices
 ---
 
 ### 🧠 Interests
 
-- Data analysis and insight-driven decision making  
-- Building clean, scalable, and interactive dashboards  
-- Exploring real-world applications of machine learning  
-- Enhancing user experience through data visualization  
-- Working at the intersection of data, design, and impact
+-Applying analytics and machine learning to real business problems
+-Building clean, scalable, and maintainable data applications
+-Exploring backend systems that support data and ML workflows
+-Creating dashboards and tools with a strong focus on usability
+-Working across data, backend, and product to deliver impact
 
 ---
 <p align="center">
@@ -72,14 +65,6 @@ Currently, I’m enhancing my skills in model evaluation, data storytelling, and
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=aashvixcodes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=aashvixcodes&theme=tokyonight&hide_border=true" />
-</p>
-
----
 ### 🌐 Let's Connect
 
 <p align="center">
