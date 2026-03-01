@@ -2,17 +2,24 @@
 <p align="center"><i>What do i do? well I'm currently...</i></p>
 <p align="center"><i>Decoding patterns, predicting outcomes, and designing clarity with code.</i></p>
 
+
+</p> <p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280"/>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2200&pause=900&color=FF0077&center=true&vCenter=true&width=720&lines=learning_rate+%2B%3D+always;print(%22building+reliable+data+solutions%22);transform(data)%2C+then+train(model)">
 </p>
----
+
+
 
 ### 👩‍💻 About Me
 
-Hi! I'm Aashvi, a final-year Data Science undergrade focused in domain of Data science, Analytics and Machine learning
+Hi! I’m Aashvi, a final-year Data Science undergrade focused on data science, analytics, and machine learning.
 
-I enjoy working on end-to-end projects — from data cleaning and exploration to building predictive models and dashboards. 
-Currently, I am focused on building complete data workflows, from raw data to meaningful insights and solutions.
+I work on data analytics and machine learning to solve real-world problems.
+I build end-to-end data workflows, from raw data to meaningful insights.
+Currently focused on creating reliable and practical data solutions.
 
 ---
 
@@ -35,26 +42,26 @@ Currently, I am focused on building complete data workflows, from raw data to me
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
 
----
-
 ### 📚 Currently Learning
 
--Data analytics workflows for real-world problem solving
--Machine learning fundamentals with practical applications
--SQL for data extraction, transformation, and analytics
--Backend fundamentals for data-driven applications (APIs, basic system design)
--Data visualization and storytelling best practices
+- Data analytics workflows for real-world problem solving  
+- Machine learning fundamentals with practical applications  
+- SQL for data extraction, transformation, and analytics  
+- Backend fundamentals for data-driven applications (APIs, basic system design)  
+- Data visualization and data storytelling best practices  
+
 ---
 
 ### 🧠 Interests
 
--Applying analytics and machine learning to real business problems
--Building clean, scalable, and maintainable data applications
--Exploring backend systems that support data and ML workflows
--Creating dashboards and tools with a strong focus on usability
--Working across data, backend, and product to deliver impact
+- Applying analytics and machine learning to real business problems  
+- Building clean, scalable, and maintainable data applications  
+- Exploring backend systems that support data and ML workflows  
+- Creating dashboards and analytical tools with a strong focus on usability  
+- Working across data, backend, and product to deliver impact  
 
 ---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D0FF&width=700&lines=Final-year+Data+Science+Undergrad.;Skilled+in+Python,+SQL,+Tableau.;Passionate+about+data,+models,+impact.;Turning+information+into+intuition."/>
 </p>
@@ -64,6 +71,10 @@ Currently, I am focused on building complete data workflows, from raw data to me
 
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashvixcodes&style=flat&color=blueviolet" />
+</p>
 
 ### 🌐 Let's Connect
 
@@ -91,3 +102,4 @@ Currently, I am focused on building complete data workflows, from raw data to me
 
 
 ---
+
